@@ -2,7 +2,7 @@
 title: Live Your Life
 email: liyilongko@163.com
 description: >
-  This is a personal blog of Bruce Lee(李逸龙)<liyilongko@163.com>.
+  Personal blog of Bruce Lee(李逸龙)<liyilongko@163.com>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dragonly.github.io/"
 # twitter_username: jekyllrb

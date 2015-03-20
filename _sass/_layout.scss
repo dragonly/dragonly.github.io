@@ -244,3 +244,14 @@
         line-height: 2em;
     }
 }
+
+/**
+ * HomePage
+ */
+ .home {
+    .post-list {
+        h2 {
+            margin-bottom: 0;
+        }
+    }
+ }
