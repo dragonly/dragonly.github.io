@@ -1,0 +1,27 @@
+# Site settings
+title: Live Your Life
+email: liyilongko@163.com
+description: >
+  This is a personal blog of Bruce Lee(李逸龙)<liyilongko@163.com>.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dragonly.github.io/"
+# twitter_username: jekyllrb
+github_username:  dragonly
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

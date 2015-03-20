@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live Your Life</title>
+    <description>This is a personal blog of Bruce Lee(李逸龙)&lt;liyilongko@163.com&gt;.
+</description>
+    <link>http://dragonly.github.io//</link>
+    <atom:link href="http://dragonly.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Mar 2015 14:21:15 +0800</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2015 14:21:15 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>写博客教做人</title>
+        <description>&lt;p&gt;真是不容易，这么久以后，我又决定重新开始写博客了。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2015 00:00:00 +0800</pubDate>
+        <link>http://dragonly.github.io//2015/03/20/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%95%99%E5%81%9A%E4%BA%BA.html</link>
+        <guid isPermaLink="true">http://dragonly.github.io//2015/03/20/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%95%99%E5%81%9A%E4%BA%BA.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
