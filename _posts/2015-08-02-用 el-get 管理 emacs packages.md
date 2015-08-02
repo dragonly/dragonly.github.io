@@ -1,5 +1,7 @@
 ---
 last-updated: 2015-08-02
+title: 用 el-get 管理 emacs packages
+categories: emacs casual
 ---
 好久不更新博客了，先扯点乱七八糟的吧。从复旦毕业是人生中的一件大事，见多了离别时候的各种场面，到如今也抒不出什么浓烈的情感了，只是祝大家能够得到自己想要的前程，但是不要迷失在了别人的目光里。
 
@@ -26,7 +28,7 @@ el-get的recipe也能算是一份文档，读起来非常的清楚。我这里�
 
 现在我只需要安装el-get，官方有的我只需要写一行配置，没有的我只需要把recipe写在`~/.emacs.d/el-get-user/recipes/`下面，然后同样在`init.el`里面写一行配置就行了。当然，如果对于有额外设置的包，需要把额外的配置写上，不过这并不影响文件的可读性。
 
-由于melpa里面有`better-defaults`这个包，所以我可以简单这么写(感谢emacs的自动保存功能，刚刚写到这里的时候，按错快捷键把iTerm的tab关掉了，也就结束了emacs进程，然后重新打开发现写的东西基本都没了= =!，还好有#filename#文件，用`M-x recover-file`命令恢复了)
+由于melpa里面有`better-defaults`这个包，所以我可以简单这么写(刚刚写到这里的时候，按错快捷键把iTerm的tab关掉了，然后重新打开发现写的东西基本都没了= =!，差点直接报警。还好有#filename#文件，用`M-x recover-file`命令恢复了，感谢emacs的自动保存功能！)
 
 {% highlight lisp %}
 ;; install el-get
