@@ -9,6 +9,8 @@ url: "http://dragonly.github.io/"
 github_username:  dragonly
 
 # Build settings
+sass:
+  style: :compressed
 markdown: kramdown
 kramdown:
   input: GFM
