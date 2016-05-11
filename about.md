@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+复旦大学 数学/软工 🐶
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+爱好数学, 单纯爱好
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+爱好编程, 研究奇怪的东西
+
+爱好设计, 但是不会
+
+正在努力爱好运动
+
+Life Hacker
+<!-- 
+[Github](https://github.com/dragonly) -->
