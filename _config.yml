@@ -1,11 +1,11 @@
 # Site settings
 title: Dragonly
-email: liyilongko@163.com
+email: liyilongko@gmail.com
 description: >
-  Personal blog of Dragonly<liyilongko@163.com>.
+  Dragonly<liyilongko@163.com>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dragonly.github.io/"
-# twitter_username: jekyllrb
+twitter_username: dragon_lyl
 github_username:  dragonly
 
 # Build settings
@@ -28,3 +28,4 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
