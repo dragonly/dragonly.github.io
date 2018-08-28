@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import time
 
-DEGREE = 32
+DEGREE = 45
 
 def rotate(image, degree):
     t = degree / 180 * 3.1415926
@@ -17,7 +17,7 @@ def rotate(image, degree):
         for y in range(H):
             for x in range(W):
                 x1 = x - ox
-                y1 = y - ox
+                y1 = y - oy
                 xr = int(x1 * cost - y1 * sint + ox)
                 yr = int(x1 * sint + y1 * cost + oy)
                 if (xr > 0 and xr < W and yr > 0 and yr < H):
@@ -37,6 +37,5 @@ end = time.time()
 print('rotate image: {:.3f} s'.format(end-begin))
 
 cv2.imshow('rotated image', rotatedImage)
-cv2.waitKey(0)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
